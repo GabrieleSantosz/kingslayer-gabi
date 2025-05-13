@@ -1,0 +1,20 @@
+m
+O Rei se move como uma estátua desmoronando— lento, deliberado, pesado.
+Ainda assim, cada golpe ecoa como um trovão. Você desvia, por pouco.
+Você apara, por pouco. Você sangra, livremente.
+
+Ele não coloca esforço real. Sem raiva. Sem fúria.
+Esse não é um homem tentando viver.
+É um homem esperando morrer.
+
+E isso o torna perigoso.
+Você luta. Você resiste. Você dá tudo de si.
+
+N: O Rei
+H: 12
+S: 12
+E: 24
+T: 0
+P: 0
+I: A Coroa;r;0;10;10
+71;72

@@ -1,0 +1,15 @@
+#6
+Ele coloca uma caneca lascada à sua frente.
+O líquido lá dentro gira de forma antinatural— espesso, escuro.
+“Que diabos é isso?”
+“Moonshine.”
+Você tem dificuldade em acreditar. “Tem mais alguma coisa de beber?”
+“Temos moonshine.”
+Você tinha a sensação de que, se provasse aquilo, seria a última coisa que beberia na vida.
+Talvez, se mudasse de assunto, ele ignorasse o fato de que você estava empurrando a bebida lentamente para longe.
+
+T: -1
+
+#14: Pergunte sobre o Rei.
+#15: Pergunte sobre o soldado.
+#8: “Há um quarto em que eu possa ficar? Tenho ouro para pagar.”

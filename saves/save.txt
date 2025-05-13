@@ -1,0 +1,10 @@
+CenaAtual:3
+CenasVistas:1,2,3,5,10
+Nome:ming
+Habilidade:9
+Energia:15
+Sorte:9
+Tesouro:100
+Provisoes:1
+Item:Espada curta;w;true;1;0
+Item:Armadura de Couro;r;false;0;0

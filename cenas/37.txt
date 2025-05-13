@@ -1,0 +1,16 @@
+m
+Você saca sua arma.
+O Apodrecido estremece com o som; algum instinto final e quebrado se agita dentro de sua mente
+destruída. Levanta a cabeça. Um olho pende solto, mal preso por um fio de tendão.
+Sua mandíbula se move sem emitir som, murmurando uma oração que já não pode mais lembrar.
+
+Você não hesita.
+Dá um passo à frente—
+
+N: Apodrecido
+H: 10
+S: 6
+E: 10
+T: 0
+P: 0
+38;39

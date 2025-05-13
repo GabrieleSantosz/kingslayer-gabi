@@ -1,0 +1,8 @@
+#3
+A porta range alto ao ser empurrada, os poucos presentes se viram para te encarar,
+e você se controla para não deixar que seu rosto se contraia em uma careta ao notar
+o Soldado do Rei sentado no canto. O dono da taberna lustra um copo que nuna parece
+estar limpo, os olhos dele fixos nos seus.
+
+#4: Vá até o estalajadeiro.
+#5: Vá até o soldado.

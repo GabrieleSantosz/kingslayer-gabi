@@ -1,0 +1,25 @@
+m
+Você vira bruscamente, a mão apertando o cabo da espada ao lado. A névoa se enrola em
+torno de suas botas, espessa e densa, distorcendo formas e sons.
+De dentro dela sai um homem— um caçador.
+Ele é largo nos ombros, forte de músculos, mas se move com leveza.
+Seu manto está rasgado, mas grosso, remendado com peles de criaturas que não se encontram
+deste lado da floresta. Sua armadura é composta de várias peças diferentes, mas bem polida.
+Peças tiradas dos mortos, sem dúvida.
+
+Seu rosto é jovem, cicatrizado na linha do queixo, com cabelos longos amarrados em um nó.
+
+"Você vale uma boa quantia, sabia?" ele diz, a voz tranquila, como se fosse uma conversa em
+uma mesa de taberna, e não à beira da morte. "Morto ou vivo. Adivinha qual é mais fácil para mim."
+Ele muda sua postura, as botas estalando no cascalho. Você percebe o movimento de sua mão,
+um pequeno gesto em direção a uma faca de arremesso presa no cinto.
+
+Ele não está aqui para conversar.
+N: Caçador
+H: 8
+S: 10
+E: 18
+T: 15
+P: 1
+I: Armadura Randomizada;r;0;1;1
+21;22

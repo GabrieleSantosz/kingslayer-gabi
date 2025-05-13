@@ -1,0 +1,13 @@
+#63
+Você ataca com tudo, confiante— confiante demais.
+Desvia do primeiro golpe, mas o segundo acerta perto demais. Você perde o equilíbrio.
+Ele está sobre você num instante. Sua lâmina ricocheteia no peito dele, inútil.
+O martelo se ergue. Ele não te mata.
+Te arremessa contra uma barraca de frutas, apagando você em segundos.
+
+Quando acorda, sua lâmina se foi, e seu braço pulsa de dor.
+Você perdeu essa luta— e tempo precioso.
+Ao menos, eles se foram. Parece que sua derrota os convenceu de que você não era uma ameaça.
+
+DROPITEMS
+#66: Você não pode descansar ainda.

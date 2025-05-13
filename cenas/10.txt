@@ -1,0 +1,24 @@
+m
+Você se move rápido. Mais rápido do que ele esperava.
+Sua mão metálica atinge a caneca dele com força, lançando-a ao chão. o recipiente se choca
+contra as tábuas, espalhando o líquido que chia ao tocar a madeira.
+Faz sentido que ele não tenha bebido.
+No instante em que ele tenta alcançar a espada de novo, a sua já está meio desembainhada.
+
+Aço contra aço. Um grito agudo.
+A luta é longe de ser elegante. São dois corpos tentando sobreviver mais tempo que o outro.
+Ele é mais forte— tem o peso da armadura e dos anos. Mas você tem velocidade. Desespero. E ódio.
+Um golpe acerta seu braço, arrancando faíscas do metal.
+Se não o tivesse amputado anos atrás, teria perdido o braço naquele instante.
+Você revida com um soco direto na garganta dele.
+Ele cambaleia, mas não para.
+E você também não.
+
+N: Antigo Ursae
+H: 10
+S: 6
+E: 14
+T: 5
+P: 0
+I: Espada Longa Apodrecida;w;1;2;1
+11;12
